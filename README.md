@@ -27,3 +27,18 @@ It have following node dependencies:
     4. es6-plato( node module to generate cyclomatic complexity graph)
     5. github   (node module which helps to create a connection between node api and github this requires clientId, oauth token from GitHub account of the user)
 
+Results:-
+
+I have used an ejs plugin to calculate the cyclometric complexity of the given repository and the result will be stored in the plato file after compiling the code. 
+Result screenshot is updated in the the github. 
+
+References:-
+
+    1. http://www.literateprogramming.com/mccabe.pdf
+    2. http://www.win.tue.nl/~aserebre/2IS55/2010-2011/10.pdf
+    3. https://en.wikipedia.org/wiki/Cyclomatic_complexity
+    4. https://github.com/philbooth/escomplex
+
+
+
+
